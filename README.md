@@ -1,10 +1,10 @@
-### Hi there 👋
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ashish-tandon.ashish-tandon" />
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ASHISHTANDON.ASHISHTANDON" />
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ashish+Tandon!;" />
+</h1>
 
-# Ashish Tandon - Agile Coach 🚀
-
-## About Me
+<h3 align="center">Agile Coach from Canada</h3>
 
 I am Ashish Tandon, an Agile Coach based in Toronto, passionate about driving organizational agility and fostering a culture of continuous improvement. With a diverse set of certifications and a strong background in project management, I bring a unique blend of skills to help teams thrive in an agile environment.
 
