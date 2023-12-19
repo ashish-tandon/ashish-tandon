@@ -40,6 +40,6 @@ Feel free to connect and explore how I can bring value to your organization's ag
 
 ## Contact Information
 
-- 📞 Phone: +1 647 704 4478
+- 📞 Phone: +1 613 608 5472
 - ✉️ Email: ashish.tandon9@gmail.com
 - 📍 Address: Toronto, ON, M9W 5K4
