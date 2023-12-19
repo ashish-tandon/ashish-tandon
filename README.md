@@ -9,14 +9,15 @@
 <div align="center"> 
   <a href="ashish.tandon9@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
-  </a>
+  </a> 
   <a href="https://www.linkedin.com/in/ashish-tandon/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="http://ashisht.com/" target="_blank">
+  <a href="http://ashisht.com/)" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
+<br/> 
 
 I am Ashish Tandon, an Agile Coach based in Toronto, passionate about driving organizational agility and fostering a culture of continuous improvement. With a diverse set of certifications and a strong background in project management, I bring a unique blend of skills to help teams thrive in an agile environment.
 
@@ -30,11 +31,6 @@ I am Ashish Tandon, an Agile Coach based in Toronto, passionate about driving or
 - **Higher Education Teaching:** AFHEA
 - **Neuro-Linguistic Programming:** NLP
 - **Change Management:** PROSCI Change Practitioner
-
-## LinkedIn and Portfolio
-
-- **LinkedIn:** [Ashish Tandon](https://www.linkedin.com/in/ashish-tandon/)
-- **Portfolio:** [ashisht.com](http://ashisht.com/)
 
 ## 🌱 Seeking Opportunities as Agile Coach
 
