@@ -24,7 +24,7 @@
 
 **Introduction:**
 
-Welcome to the professional abode of Ashish Tandon - an emblem of adeptness in Agile Coaching, Project, and Product Management. With an illustrious backdrop adorned with credentials like PMP, ACP, LSSBB, and more, Ashish’s mastery in agile methodologies is not just proficient but pioneering. This website is a synthesis of experience, knowledge, and the ambition to propel organizations into the agile epoch.
+Welcome to the professional abode of Ashish Tandon - an emblem of adeptness in Agile Coaching, Project, and Product Management. With an illustrious backdrop adorned with credentials like PMP, ACP, LSSBB, and more, Ashish’s mastery in agile methodologies is not just proficient but pioneering. This page is a synthesis of experience, knowledge, and the ambition to propel organizations into the agile epoch.
 
 **About Ashish:**
 
