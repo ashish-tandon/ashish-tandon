@@ -18,8 +18,27 @@
   </a>
 </div>
 <br/> 
+**Crafting a Digital Haven: Unveiling the Agile Expertise of Ashish Tandon**
 
-I am Ashish Tandon, an Agile Coach based in Toronto, passionate about driving organizational agility and fostering a culture of continuous improvement. With a diverse set of certifications and a strong background in project management, I bring a unique blend of skills to help teams thrive in an agile environment.
+---
+
+**Introduction:**
+
+Welcome to the professional abode of Ashish Tandon - an emblem of adeptness in Agile Coaching, Project, and Product Management. With an illustrious backdrop adorned with credentials like PMP, ACP, LSSBB, and more, Ashish’s mastery in agile methodologies is not just proficient but pioneering. This website is a synthesis of experience, knowledge, and the ambition to propel organizations into the agile epoch.
+
+**About Ashish:**
+
+A meticulous planner, an adept agile coach, and a visionary project manager, Ashish’s journey is nothing short of inspiring. With a suite of certifications like PRINCE2, CSM, CSPO, and DevOps under his belt, he stands at the cusp of modern-day agile and traditional project management practices.
+
+**Services:**
+
+- **Agile Coaching:** Tailored coaching sessions to transition your team into agile methodologies smoothly.
+- **Project Management Consulting:** Propelling your projects with a blend of traditional and agile management principles.
+- **Product Management Consulting:** Sculpting stellar products with agile at the helm.
+
+**Showcase:**
+
+Explore the gamut of projects steered to success under the agile coaching and project management acumen of Ashish. Each project elucidates the agile principles in action, driving tangible value and remarkable outcomes.
 
 ## Certifications
 
@@ -32,6 +51,13 @@ I am Ashish Tandon, an Agile Coach based in Toronto, passionate about driving or
 - **Higher Education Teaching:** AFHEA
 - **Neuro-Linguistic Programming:** NLP
 - **Change Management:** PROSCI Change Practitioner
+
+**Resources:**
+
+Embark on a voyage of becoming an agile maestro with curated resources:
+- **Articles and Insights:** Dive deep into the agile realm with thought-provoking articles.
+- **Tools and Techniques:** A curation of tools essential for aspiring Scrum Masters and Product Owners.
+- **Workshops and Webinars:** Engage in immersive learning experiences conducted by Ashish.
 
 ### Agile Methodologies and Frameworks
 
@@ -122,11 +148,22 @@ I am Ashish Tandon, an Agile Coach based in Toronto, passionate about driving or
 ## 🌱 North America Agile Coach
 
 I am actively seeking opportunities to contribute as an Agile Coach, leveraging my extensive experience and a rich set of coaching certifications. My goal is to empower teams, drive collaboration, and facilitate a mindset shift towards agility.
-
 Feel free to connect and explore how I can bring value to your organization's agile journey! 🌟
 
-## Contact Information
 
-- 📞 Phone: +1 613 608 5472
-- ✉️ Email: ashish.tandon9@gmail.com
+**Testimonials:**
+Immerse in the chronicles of transformation from esteemed clients and inspired students, reflecting the profound impact Ashish has imbibed in their professional journey.
+
+
+**Get in Touch:**
+Embark on your agile transformation journey with Ashish Tandon. Contact now for consulting engagements and coaching sessions.
+- 📞 **Phone:** +1 613 608 5472
+- ✉️ **Email:** [Ashish.Tandon9@email.com](mailto:Ashish.Tandon9@email.com)
+- **LinkedIn:** [Ashish Tandon](https://www.linkedin.com/in/ashish-tandon/)
+- **Personal Website:** [http://ashisht.com/](http://ashisht.com/)
 - 📍 Address: Toronto, ON, M5V
+
+
+**Footer:**
+
+© 2023 Ashish Tandon | Crafting Agile Success Stories
