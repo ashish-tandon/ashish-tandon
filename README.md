@@ -22,13 +22,17 @@
 
 ---
 
-**Introduction:**
+Hi,
+I am Ashish Tandon, a seasoned Agile Coach with a wealth of experience spanning two years. Armed with a robust background in Agile Coaching, Project Management, and Product Management Consulting, I bring a unique blend of skills to drive organizational success.My coaching expertise extends to Agile methodologies, where I hold certifications such as ACP, CSP SM, and CSPO, reflecting my commitment to fostering collaborative, adaptive, and customer-focused practices. Additionally, I am a certified Agile Coach (ICAgile AC), emphasizing my dedication to guiding teams through Agile transformations.
 
-Welcome to the professional abode of Ashish Tandon - an emblem of adeptness in Agile Coaching, Project, and Product Management. With an illustrious backdrop adorned with credentials like PMP, ACP, LSSBB, and more, Ashish’s mastery in agile methodologies is not just proficient but pioneering. This page is a synthesis of experience, knowledge, and the ambition to propel organizations into the agile epoch.
+With a solid foundation in Project Management, as evidenced by my PMP and PRINCE2 certifications, I am well-equipped to provide strategic insights and consulting services. My Lean Six Sigma Black Belt (LSSBB) certification underscores my commitment to continuous improvement and efficiency.My educational background includes a BMS, PGDBM, and MBA in Business Management, ensuring a holistic understanding of the business landscape. Moreover, my expertise in DevOps, ITIL, and Change Management, coupled with a certification in Neuro-Linguistic Programming (NLP), positions me as a multifaceted professional capable of driving organizational change.
 
-**About Ashish:**
+Having demonstrated my commitment to education through the AFHEA certification for Higher Education Teaching, I am not only adept at implementing Agile methodologies but also skilled in imparting knowledge and fostering a culture of learning within teams.
 
-A meticulous planner, an adept agile coach, and a visionary project manager, Ashish’s journey is nothing short of inspiring. With a suite of certifications like PRINCE2, CSM, CSPO, and DevOps under his belt, he stands at the cusp of modern-day agile and traditional project management practices.
+I am eager to bring my diverse skill set and passion for Agile principles to your organization, where I can contribute to achieving and exceeding business objectives. Let's collaborate to elevate your team's Agile journey and drive sustainable success.
+
+Sincerely,
+Ashish Tandon
 
 **Services:**
 
