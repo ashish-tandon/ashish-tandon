@@ -157,45 +157,6 @@ Feel free to connect and explore how I can bring value to your organization's ag
 
 **Testimonials:**
 Immerse in the chronicles of transformation from esteemed clients and inspired students, reflecting the profound impact Ashish has imbibed in their professional journey.
-##References
-
-1. **"Get ready for agile methods, with care"**
-- **Abstract**: This paper discusses criteria such as Extreme Programming’s 12 practices and explores what constitutes an agile method.
-- **Cited Count**: 1689
-- [Read the Article](https://ieeexplore.ieee.org/abstract/document/976920/)
-- [Download PDF](https://www.se.rit.edu/~swen-356/resources/GetReadyForAgile-Boehm.pdf)
-
-2. **"A framework for adapting agile development methodologies"**
-- **Abstract**: This paper describes various sources of structure that affect the appropriation of agile practices.
-- **Cited Count**: 395
-- [Read the Article](https://www.tandfonline.com/doi/abs/10.1057/ejis.2009.26)
-- [Download PDF](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=315cb7c1d5274a0ec89bd9bebada8a100307fa34)
-
-3. **"A comparison between agile and traditional software development methodologies"**
-- **Abstract**: This study compares agile methodologies with traditional methods in terms of success rates for different sizes of software development projects.
-- **Cited Count**: 385
-- [Read the Article](https://www.academia.edu/download/58993716/10.1.1.464.609020190422-13963-j0ju8a.pdf)
-- [Download PDF](https://www.academia.edu/download/58993716/10.1.1.464.609020190422-13963-j0ju8a.pdf)
-
-4. **"Agile methods tailoring–A systematic literature review"**
-- **Abstract**: This paper provides a systematic literature review on agile methods tailoring, including the approaches adopted and criteria used.
-- **Cited Count**: 374
-- [Read the Article](https://www.sciencedirect.com/science/article/pii/S0164121215001843)
-
-5. **"Historical roots of agile methods: Where did “Agile thinking” come from?"**
-- **Abstract**: This paper explores the historical roots of Agile methods and argues that although Agile methods are new as a formal concept, their underlying ideas are not.
-- **Cited Count**: 265
-- [Read the Article](https://link.springer.com/chapter/10.1007/978-3-540-68255-4_10)
-- [Download PDF](https://eprints.soton.ac.uk/266606/1/xp2008camera_ready.pdf)
-
-**Get in Touch:**
-Embark on your agile transformation journey with Ashish Tandon. Contact now for consulting engagements and coaching sessions.
-- 📞 **Phone:** +1 613 608 5472
-- ✉️ **Email:** [Ashish.Tandon9@email.com](mailto:Ashish.Tandon9@email.com)
-- **LinkedIn:** [Ashish Tandon](https://www.linkedin.com/in/ashish-tandon/)
-- **Personal Website:** [http://ashisht.com/](http://ashisht.com/)
-- 📍 Address: Toronto, ON, M5V
-
 
 **Footer:**
 
