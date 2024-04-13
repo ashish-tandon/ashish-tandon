@@ -18,7 +18,7 @@
   </a>
 </div>
 <br/> 
-**Crafting a Digital Haven: Unveiling the Agile Expertise of Ashish Tandon**
+<h3 align="center"><b>Crafting a Digital Haven: Unveiling the Agile Expertise of Ashish Tandon </b></h3>
 
 ---
 
